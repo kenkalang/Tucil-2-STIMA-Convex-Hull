@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 from sklearn import datasets 
 import matplotlib.pyplot as plt
-data = datasets.load_wine() 
+data = datasets.load_iris() 
 #create a DataFrame 
 df = pd.DataFrame(data.data, columns=data.feature_names) 
 df['Target'] = pd.DataFrame(data.target) 
