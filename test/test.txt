@@ -1,3 +1,4 @@
 List dataset yang diuji :
 1. datasets.load_wine()
 2. datasets.load_iris()
+3. datasets.load_breast_cancer()
