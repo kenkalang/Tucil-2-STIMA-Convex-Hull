@@ -1,5 +1,3 @@
-cara menjalankan program :
-
-1. Untuk menjalankan program silahkan compile dan run seperti biasa, program akan langsung mengeluarkan output berupa gambar convex
-2. Untuk mengganti dataset, silahkan ganti pada bagian line 7 "data = datasets.load_iris" silahkan diganti bisa menggunakan dataset "load_wine" dll.
-3. 
+List dataset yang diuji :
+1. datasets.load_wine()
+2. datasets.load_iris()
